@@ -1,4 +1,4 @@
-# Multiclass Classification 
+# Multilabel Classification 
 
 ## About the project
 Experiments with localized versions of AI models to find fast short-answer response grading and feedback methods.
