@@ -1,16 +1,12 @@
 # Multilabel Classification 
 
 ## About the project
-Experiments with localized versions of AI models to find fast short-answer response grading and feedback methods.
-
+Experiments with localized versions of classification models to rapidly classify a poll response with a grade.
 
 ## Requirements
 
 ### Prerequisites
-Python 3.?? is required.
-Make sure to install the requirements.
-
-'''pip install -r requirements.txt'''
+Python 3.8+ is required.
 
 ### Installation
 Clone the repository.
@@ -26,11 +22,8 @@ The project can be used by adding a rubric, the posed question, and the student 
 The output would be the model's feedback based on the grade received by the student.
 
 ## Roadmap
-\
 
-1. The project would assign a short-response a grade through a classifying model and feedback through a large language model.
-2. Some technologies that have been used are BigScience's BLOOM, 
+1. The project would assign a short-response a grade through a classification model and feedback through a large language model.
+2. Some technologies that have been used so far are BigScience's BLOOM and NLTK. 
+3. Future directions would include experimenting with classification models for deriving the grade and with prompt engineering in BLOOM to develop feedback.
 
-What does the project do?
-What technologies did we use?
-What are some of the challenges we faced and hope to implement in the future?
