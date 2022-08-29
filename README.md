@@ -11,7 +11,7 @@ Python 3.8+ is required.
 ### Installation
 Clone the repository.
 
-'''git clone https://github.com/github_username/repo_name.git'''
+```git clone https://github.com/github_username/repo_name.git```
 
 ## Usage
 
